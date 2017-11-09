@@ -20,16 +20,16 @@ public class RedisTest extends TestCase {
         redisService.setDatabase(26);
         redisService.init();
         //redisService.set("test","test001");
-        /*Map<String,String> map = new HashMap<>() ;
+        Map<String,String> map = new HashMap<>() ;
         map.put("ww","111") ;
-        redisService.hmset("112",map);*/
+        redisService.hmset("112",map);
 
-        List<String> list = new ArrayList<>() ;
+        /*List<String> list = new ArrayList<>() ;
         list.add("11");
         list.add("2");
         list.add("3");
         String[] arr = list.toArray(new String[list.size()]) ;
-        redisService.lpush("keykey",arr);
+        redisService.lpush("keykey",arr);*/
     }
 
     @Test
