@@ -1,6 +1,3 @@
-/*
- * Copyright (C) 2009-2016 Hangzhou 2Dfire Technology Co., Ltd. All rights reserved
- */
 package com.ws.utils;
 
 import javax.servlet.http.HttpServletRequest;
@@ -9,10 +6,6 @@ import java.io.IOException;
 import java.util.Calendar;
 import java.util.Date;
 
-/**
- * @author yunhua
- * @since 2017-10-20
- */
 public class ETagUtil {
 
     public static boolean judgeEtag(HttpServletRequest request, HttpServletResponse response, String tag) {
