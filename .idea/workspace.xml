@@ -4,8 +4,78 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ca5bd64-1890-4b43-b791-1961f37ce6c0" name="Default" comment="hmap">
+    <list default="true" id="3ca5bd64-1890-4b43-b791-1961f37ce6c0" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/AbstractDeserializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/AbstractDeserializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/AbstractHessianInput.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/AbstractHessianInput.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/AbstractListDeserializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/AbstractListDeserializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/AbstractMapDeserializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/AbstractMapDeserializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/AbstractSerializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/AbstractSerializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/AnnotationDeserializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/AnnotationDeserializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/AnnotationInvocationHandler.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/AnnotationInvocationHandler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/AnnotationSerializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/AnnotationSerializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/ArrayDeserializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/ArrayDeserializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/ArraySerializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/ArraySerializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/BasicDeserializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/BasicDeserializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/BasicSerializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/BasicSerializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/BurlapRemoteObject.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/BurlapRemoteObject.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/ByteArraySerializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/ByteArraySerializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/ByteHandle.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/ByteHandle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/CalendarHandle.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/CalendarHandle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/CalendarSerializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/CalendarSerializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/ClassDeserializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/ClassDeserializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/ClassSerializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/ClassSerializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/CollectionDeserializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/CollectionDeserializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/CollectionSerializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/CollectionSerializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/ContextSerializerFactory.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/ContextSerializerFactory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/EnumDeserializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/EnumDeserializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/EnumSerializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/EnumSerializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/EnumerationDeserializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/EnumerationDeserializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/EnumerationSerializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/EnumerationSerializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/FloatHandle.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/FloatHandle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/HessianException.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/HessianException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/HessianFieldException.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/HessianFieldException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/HessianHandle.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/HessianHandle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/HessianInput.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/HessianInput.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/HessianMethodSerializationException.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/HessianMethodSerializationException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/HessianProtocolException.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/HessianProtocolException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/HessianRemote.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/HessianRemote.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/HessianRemoteObject.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/HessianRemoteObject.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/HessianRemoteResolver.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/HessianRemoteResolver.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/HessianServiceException.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/HessianServiceException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/HessianUnshared.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/HessianUnshared.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/IOExceptionWrapper.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/IOExceptionWrapper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/InetAddressHandle.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/InetAddressHandle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/InetAddressSerializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/InetAddressSerializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/InputStreamDeserializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/InputStreamDeserializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/InputStreamSerializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/InputStreamSerializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/IteratorDeserializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/IteratorDeserializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/IteratorSerializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/IteratorSerializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/JavaDeserializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/JavaDeserializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/JavaSerializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/JavaSerializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/JavaUnsharedSerializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/JavaUnsharedSerializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/MapDeserializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/MapDeserializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/MapSerializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/MapSerializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/ObjectDeserializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/ObjectDeserializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/ObjectHandleSerializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/ObjectHandleSerializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/ObjectSerializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/ObjectSerializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/RemoteDeserializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/RemoteDeserializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/RemoteSerializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/RemoteSerializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/ShortHandle.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/ShortHandle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/SqlDateDeserializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/SqlDateDeserializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/SqlDateSerializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/SqlDateSerializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/StackTraceElementDeserializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/StackTraceElementDeserializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/ThrowableSerializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/ThrowableSerializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/UnsafeDeserializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/UnsafeDeserializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/UnsafeSerializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/UnsafeSerializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/UnsafeUnsharedSerializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/UnsafeUnsharedSerializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/WriteReplaceSerializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/WriteReplaceSerializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/redis/RedisLockUtil.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/redis/RedisLockUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/redis/RedisPool.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/redis/RedisPool.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/redis/RedisSentinelPool.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/redis/RedisSentinelPool.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/redis/RedisService.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/redis/RedisService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/utils/GzipUtil.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/utils/GzipUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ws/utils/HessianUtil.java" afterPath="$PROJECT_DIR$/src/main/java/com/ws/utils/HessianUtil.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -22,67 +92,101 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RedisBaseService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/redis/RedisBaseService.java">
+      <file leaf-file-name="AnnotationSerializer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/hessian/io/AnnotationSerializer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="801">
-              <caret line="519" column="16" lean-forward="false" selection-start-line="519" selection-start-column="16" selection-end-line="519" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#12913#12914#0" expanded="true" />
-                <element signature="e#12968#12969#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RedisTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/redis/RedisTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Jedis.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.8.1/jedis-2.8.1-sources.jar!/redis/clients/jedis/Jedis.java">
+      <file leaf-file-name="ArrayDeserializer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/hessian/io/ArrayDeserializer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="11913">
-              <caret line="652" column="0" lean-forward="false" selection-start-line="652" selection-start-column="0" selection-end-line="652" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RedisLockUtil.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/redis/RedisLockUtil.java">
+      <file leaf-file-name="ArraySerializer.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/hessian/io/ArraySerializer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="14" column="31" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="32" />
+            <state relative-caret-position="76">
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ICacheService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/redis/ICacheService.java">
+      <file leaf-file-name="BasicDeserializer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/hessian/io/BasicDeserializer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8360">
-              <caret line="444" column="9" lean-forward="false" selection-start-line="444" selection-start-column="9" selection-end-line="444" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="BasicSerializer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/hessian/io/BasicSerializer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="29" column="17" lean-forward="false" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractDeserializer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/hessian/io/AbstractDeserializer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractHessianOutput.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/hessian/io/AbstractHessianOutput.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractListDeserializer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/hessian/io/AbstractListDeserializer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractMapDeserializer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/hessian/io/AbstractMapDeserializer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractSerializer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/hessian/io/AbstractSerializer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -107,7 +211,15 @@
       <find>lpush</find>
       <find>l</find>
       <find>list</find>
+      <find>/*  * Copyright (C) 2009-2016 Hangzhou 2Dfire Technology Co., Ltd. All rights reserved  */</find>
+      <find>Copyright (C) 2009-2016 Hangzhou 2Dfire Technology Co., Ltd. All rights reserved</find>
+      <find>\/\*\n \* Copyright \(C\) 2009\-2016 Hangzhou 2Dfire Technology Co\.\, Ltd\. All rights reserved\n \*\/</find>
+      <find>\npackage</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>package</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -120,15 +232,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/SqlDateSerializer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/SqlDateDeserializer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/StackTraceElementDeserializer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/JavaDeserializer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ws/redis/RedisSentinelPool.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ws/utils/HessianUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ws/utils/GzipUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ws/redis/RedisPool.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ws/redis/RedisLockUtil.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/CollectionSerializer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/MapSerializer.java" />
@@ -142,16 +245,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/JavaSerializer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/JavaUnsharedSerializer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/WriteReplaceSerializer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/ArraySerializer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/ThrowableSerializer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/AbstractListDeserializer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/CollectionDeserializer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/MapDeserializer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/IteratorDeserializer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/AnnotationDeserializer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/AnnotationInvocationHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/ObjectDeserializer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/ArrayDeserializer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/EnumerationDeserializer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/EnumDeserializer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/ClassDeserializer.java" />
@@ -163,7 +261,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/CalendarHandle.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/EnumerationSerializer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/EnumSerializer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/AnnotationSerializer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/HessianMethodSerializationException.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/ContextSerializerFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ws/redis/RedisBaseService.java" />
@@ -171,6 +268,21 @@
         <option value="$PROJECT_DIR$/src/main/java/com/ws/redis/RedisService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ws/redis/RedisSentinelService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ws/redis/RedisTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ws/redis/RedisLockUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ws/redis/RedisPool.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ws/redis/RedisSentinelPool.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/AbstractHessianInput.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/AbstractListDeserializer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/AbstractMapDeserializer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/AbstractSerializer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/AnnotationDeserializer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/AnnotationInvocationHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/AnnotationSerializer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/ArrayDeserializer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/ArraySerializer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/BasicDeserializer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/BasicSerializer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ws/hessian/io/AbstractDeserializer.java" />
       </list>
     </option>
   </component>
@@ -243,6 +355,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -354,14 +467,43 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="github" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ws" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -855,7 +997,8 @@
       <workItem from="1510214485464" duration="10000" />
       <workItem from="1510214513017" duration="8869000" />
       <workItem from="1510231632719" duration="10000" />
-      <workItem from="1510231812440" duration="552000" />
+      <workItem from="1510231812440" duration="612000" />
+      <workItem from="1510372353859" duration="897000" />
     </task>
     <task id="LOCAL-00001" summary="配置文件">
       <created>1508469001521</created>
@@ -906,7 +1049,14 @@
       <option name="project" value="LOCAL" />
       <updated>1510232029703</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="workspace">
+      <created>1510232376406</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1510232376406</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -942,7 +1092,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2869000" />
+    <option name="totallyTimeSpent" value="3826000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -962,7 +1112,6 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36607143" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2544643" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -970,8 +1119,9 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2707889" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27345416" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -979,8 +1129,8 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26674107" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2544643" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1028,16 +1178,16 @@
     <MESSAGE value="配置文件" />
     <MESSAGE value="servlet" />
     <MESSAGE value="增加redis支持" />
-    <MESSAGE value="workspace" />
     <MESSAGE value="hmap" />
-    <option name="LAST_COMMIT_MESSAGE" value="hmap" />
+    <MESSAGE value="workspace" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/ws/hessian/io/HessianInput.java</url>
-          <line>60</line>
+          <line>57</line>
           <properties />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -1068,80 +1218,10 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/hessian/io/UnsafeSerializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-817">
-          <caret line="41" column="60" lean-forward="true" selection-start-line="41" selection-start-column="60" selection-end-line="41" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/hessian/io/UnsafeDeserializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-418">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/hessian/io/HessianRemoteObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/hessian/io/RemoteSerializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/hessian/io/BurlapRemoteObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/hessian/io/JavaUnsharedSerializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/hessian/io/JavaSerializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="42" column="53" lean-forward="false" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/hessian/io/WriteReplaceSerializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/hessian/io/ArraySerializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/hessian/io/ThrowableSerializer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/hessian/io/AbstractListDeserializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -1166,30 +1246,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/hessian/io/AnnotationInvocationHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1234">
-          <caret line="69" column="0" lean-forward="true" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/hessian/io/AnnotationDeserializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="35" column="133" lean-forward="false" selection-start-line="35" selection-start-column="106" selection-end-line="35" selection-end-column="133" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/hessian/io/ObjectDeserializer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="33">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/hessian/io/ArrayDeserializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37">
           <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
         </state>
       </provider>
@@ -1278,13 +1337,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/hessian/io/AnnotationSerializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="142" column="53" lean-forward="false" selection-start-line="142" selection-start-column="18" selection-end-line="142" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/hessian/io/SerializerFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="431">
@@ -1306,13 +1358,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/redis/RedisSentinelService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="47" lean-forward="false" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/3.8.1/junit-3.8.1.jar!/junit/framework/TestCase.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -1338,28 +1383,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" column="17" lean-forward="false" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/redis/RedisSentinelPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-184">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/redis/RedisPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-887">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1377,14 +1400,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/redis/RedisLockUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="14" column="31" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/JUnit38ClassRunner.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -1396,20 +1411,89 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="11913">
           <caret line="652" column="0" lean-forward="false" selection-start-line="652" selection-start-column="0" selection-end-line="652" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#720#721#0" expanded="false" />
+            <element signature="e#737#738#0" expanded="false" />
+            <element signature="e#774#775#0" expanded="false" />
+            <element signature="e#795#796#0" expanded="false" />
+            <element signature="e#848#849#0" expanded="false" />
+            <element signature="e#875#876#0" expanded="false" />
+            <element signature="e#947#948#0" expanded="false" />
+            <element signature="e#983#984#0" expanded="false" />
+            <element signature="e#1187#1188#0" expanded="false" />
+            <element signature="e#1213#1214#0" expanded="false" />
+            <element signature="e#1240#1241#0" expanded="false" />
+            <element signature="e#1260#1261#0" expanded="false" />
+            <element signature="e#1312#1313#0" expanded="false" />
+            <element signature="e#1341#1342#0" expanded="false" />
+            <element signature="e#62618#62619#0" expanded="false" />
+            <element signature="e#62674#62675#0" expanded="false" />
+            <element signature="e#63611#63612#0" expanded="false" />
+            <element signature="e#63655#63656#0" expanded="false" />
+            <element signature="e#63798#63799#0" expanded="false" />
+            <element signature="e#63842#63843#0" expanded="false" />
+            <element signature="e#68452#68453#0" expanded="false" />
+            <element signature="e#68508#68509#0" expanded="false" />
+            <element signature="e#97897#97898#0" expanded="false" />
+            <element signature="e#97952#97953#0" expanded="false" />
+            <element signature="e#102181#102182#0" expanded="false" />
+            <element signature="e#102213#102214#0" expanded="false" />
+            <element signature="e#102255#102256#0" expanded="false" />
+            <element signature="e#102290#102291#0" expanded="false" />
+            <element signature="e#102326#102327#0" expanded="false" />
+            <element signature="e#102370#102371#0" expanded="false" />
+            <element signature="e#109275#109276#0" expanded="false" />
+            <element signature="e#109325#109326#0" expanded="false" />
+            <element signature="e#111787#111788#0" expanded="false" />
+            <element signature="e#111834#111835#0" expanded="false" />
+            <element signature="e#114199#114200#0" expanded="false" />
+            <element signature="e#114252#114253#0" expanded="false" />
+            <element signature="e#115290#115291#0" expanded="false" />
+            <element signature="e#115343#115344#0" expanded="false" />
+            <element signature="e#116299#116300#0" expanded="false" />
+            <element signature="e#116346#116347#0" expanded="false" />
+            <element signature="e#118551#118552#0" expanded="false" />
+            <element signature="e#118604#118605#0" expanded="false" />
+            <element signature="e#123702#123703#0" expanded="false" />
+            <element signature="e#123739#123740#0" expanded="false" />
+            <element signature="e#124467#124468#0" expanded="false" />
+            <element signature="e#124519#124520#0" expanded="false" />
+            <element signature="e#124587#124588#0" expanded="false" />
+            <element signature="e#124639#124640#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/redis/RedisTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/redis/RedisService.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="10" column="42" lean-forward="false" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        <state relative-caret-position="551">
+          <caret line="29" column="17" lean-forward="false" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/redis/DataProcessUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/redis/ICacheService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8360">
+        <state relative-caret-position="8436">
           <caret line="444" column="9" lean-forward="false" selection-start-line="444" selection-start-column="9" selection-end-line="444" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1419,20 +1503,157 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/redis/RedisBaseService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="801">
-          <caret line="519" column="16" lean-forward="false" selection-start-line="519" selection-start-column="16" selection-end-line="519" selection-end-column="16" />
+        <state relative-caret-position="76">
+          <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
           <folding>
-            <element signature="imports" expanded="true" />
             <element signature="e#12913#12914#0" expanded="true" />
             <element signature="e#12968#12969#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/redis/RedisTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/redis/RedisLockUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/redis/RedisPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/redis/RedisSentinelPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/redis/RedisSentinelService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="11" column="47" lean-forward="false" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/redis/RedisService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#1055#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/hessian/io/AbstractHessianInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/hessian/io/AnnotationDeserializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/hessian/io/AnnotationInvocationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/hessian/io/AnnotationSerializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/hessian/io/ArrayDeserializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/hessian/io/BasicDeserializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/hessian/io/BasicSerializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/hessian/io/AbstractDeserializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/hessian/io/AbstractHessianOutput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/hessian/io/AbstractListDeserializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/hessian/io/AbstractMapDeserializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/hessian/io/AbstractSerializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ws/hessian/io/ArraySerializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
           <folding />
         </state>
       </provider>

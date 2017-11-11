@@ -1,6 +1,3 @@
-/*
- * Copyright (C) 2009-2016 Hangzhou 2Dfire Technology Co., Ltd. All rights reserved
- */
 package com.ws.redis;
 
 import org.apache.commons.pool2.impl.GenericObjectPoolConfig;
