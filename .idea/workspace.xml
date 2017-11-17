@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ca5bd64-1890-4b43-b791-1961f37ce6c0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/test/com/ws/lock/ThreadDeadlockTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/test/com/ws/lock/ThreadDeadlockTest.java" afterPath="$PROJECT_DIR$/src/main/test/com/ws/lock/ThreadDeadlockTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -46,8 +46,8 @@
       <file leaf-file-name="ThreadDeadlockTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/test/com/ws/lock/ThreadDeadlockTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1026">
-              <caret line="54" column="9" lean-forward="true" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
+            <state relative-caret-position="-349">
+              <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -1131,7 +1131,7 @@
       <workItem from="1510542510827" duration="129000" />
       <workItem from="1510625545385" duration="371000" />
       <workItem from="1510625926581" duration="15976000" />
-      <workItem from="1510747041474" duration="5731000" />
+      <workItem from="1510747041474" duration="5821000" />
     </task>
     <task id="LOCAL-00001" summary="配置文件">
       <created>1508469001521</created>
@@ -1217,7 +1217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1510835941097</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="循环死锁">
+      <created>1510886676486</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1510886676486</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1253,7 +1260,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26111000" />
+    <option name="totallyTimeSpent" value="26201000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1310,7 +1317,8 @@
     <MESSAGE value="原子操作测试" />
     <MESSAGE value="死锁查看" />
     <MESSAGE value="ReentrantLock测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="ReentrantLock测试" />
+    <MESSAGE value="循环死锁" />
+    <option name="LAST_COMMIT_MESSAGE" value="循环死锁" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1579,8 +1587,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/com/ws/lock/ThreadDeadlockTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1026">
-          <caret line="54" column="9" lean-forward="true" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
+        <state relative-caret-position="-349">
+          <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
           <folding />
         </state>
       </provider>
