@@ -1,4 +1,4 @@
-package com.ws;
+package com.ws.collection;
 
 import java.util.HashMap;
 import java.util.Map;
