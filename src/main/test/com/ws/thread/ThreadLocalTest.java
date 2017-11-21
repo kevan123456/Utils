@@ -4,35 +4,33 @@ public class ThreadLocalTest {
 
     public static class MyRunnable implements Runnable {
 
-        private A a = new A() ;
-
         @Override
         public void run() {
             try {
-                a.setNumber(a.getNumber()+5);
-                System.out.println(Thread.currentThread().getName()+":\t"+a.getNumber());
+                A.setNumber(A.getNumber()+5);
+                System.out.println(Thread.currentThread().getName()+":\t"+A.getNumber());
             }finally {
                 //防止出现内存泄露
-                a.removeNumber();
+                A.removeNumber();
             }
 
         }
     }
 
     public static class A{
-        private ThreadLocal<Integer> threadLocal = new ThreadLocal<Integer>(){
+        private static ThreadLocal<Integer> threadLocal = new ThreadLocal<Integer>(){
             @Override
             protected Integer initialValue(){
                 return 0;
             }
         } ;
-        public int getNumber(){
+        public static int getNumber(){
             return threadLocal.get() ;
         }
-        public void setNumber(Integer number){
+        public static void setNumber(Integer number){
             threadLocal.set(number) ;
         }
-        public void removeNumber(){
+        public static void removeNumber(){
             threadLocal.remove();
         }
     }
