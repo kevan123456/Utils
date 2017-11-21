@@ -3,10 +3,6 @@ package com.ws;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * @author yunhua
- * @since 2017-11-21
- */
 public class HashMapTest {
     public static void main(String[] args) {
         Map<String,String> map = new HashMap();
