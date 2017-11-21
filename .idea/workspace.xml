@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ca5bd64-1890-4b43-b791-1961f37ce6c0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/test/com/ws/thread/ThreadLocalTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/test/com/ws/thread/ThreadLocalTest.java" afterPath="$PROJECT_DIR$/src/main/test/com/ws/thread/ThreadLocalTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -36,26 +36,18 @@
       <file leaf-file-name="ThreadLocalTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/test/com/ws/thread/ThreadLocalTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+            <state relative-caret-position="175">
+              <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
               <folding>
-                <element signature="e#416#561#0" expanded="true" />
-                <element signature="e#560#561#0" expanded="true" />
-                <element signature="e#594#595#0" expanded="true" />
-                <element signature="e#643#644#0" expanded="true" />
-                <element signature="e#690#691#0" expanded="true" />
-                <element signature="e#738#739#0" expanded="true" />
+                <element signature="e#541#686#0" expanded="true" />
+                <element signature="e#685#686#0" expanded="true" />
+                <element signature="e#719#720#0" expanded="true" />
+                <element signature="e#768#769#0" expanded="true" />
+                <element signature="e#815#816#0" expanded="true" />
+                <element signature="e#863#864#0" expanded="true" />
+                <element signature="e#899#900#0" expanded="true" />
+                <element signature="e#943#944#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Thread.java" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Thread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="181" column="25" lean-forward="true" selection-start-line="181" selection-start-column="25" selection-end-line="181" selection-end-column="25" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -64,12 +56,14 @@
         <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/ThreadLocal.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
-              <caret line="125" column="28" lean-forward="false" selection-start-line="125" selection-start-column="16" selection-end-line="125" selection-end-column="28" />
+              <caret line="453" column="43" lean-forward="false" selection-start-line="453" selection-start-column="40" selection-end-line="453" selection-end-column="43" />
               <folding>
-                <element signature="e#4309#4310#0" expanded="true" />
-                <element signature="e#4336#4337#0" expanded="true" />
                 <element signature="e#7765#7766#0" expanded="true" />
                 <element signature="e#7802#7803#0" expanded="true" />
+                <element signature="e#11620#11621#0" expanded="true" />
+                <element signature="e#11678#11679#0" expanded="true" />
+                <element signature="e#11793#11794#0" expanded="true" />
+                <element signature="e#11856#11857#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -552,6 +546,36 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="ws" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="github" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ws" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="atomic" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1100,7 +1124,7 @@
       <workItem from="1510542510827" duration="129000" />
       <workItem from="1510625545385" duration="371000" />
       <workItem from="1510625926581" duration="15976000" />
-      <workItem from="1510747041474" duration="14174000" />
+      <workItem from="1510747041474" duration="16553000" />
     </task>
     <task id="LOCAL-00001" summary="配置文件">
       <created>1508469001521</created>
@@ -1200,7 +1224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1510886812030</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="ThreadLocal&#10;">
+      <created>1511176241065</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1511176241065</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1236,11 +1267,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34554000" />
+    <option name="totallyTimeSpent" value="36933000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -1264,7 +1295,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2109375" sideWeight="0.4978678" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30245537" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28304905" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28304905" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -1295,7 +1326,8 @@
     <MESSAGE value="ReentrantLock测试" />
     <MESSAGE value="循环死锁" />
     <MESSAGE value="格式化" />
-    <option name="LAST_COMMIT_MESSAGE" value="格式化" />
+    <MESSAGE value="ThreadLocal&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="ThreadLocal&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1534,14 +1566,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/ws/concurrent/atomic/AtomicLongTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="226">
@@ -1555,35 +1579,47 @@
         <state relative-caret-position="342">
           <caret line="106" column="17" lean-forward="true" selection-start-line="106" selection-start-column="17" selection-end-line="106" selection-end-column="17" />
           <folding>
-            <element signature="e#0#9642#0" expanded="true" />
+            <element signature="e#0#9642#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/ws/concurrent/atomic/AtomicLongTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/ThreadLocal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="125" column="28" lean-forward="false" selection-start-line="125" selection-start-column="16" selection-end-line="125" selection-end-column="28" />
+          <caret line="453" column="43" lean-forward="false" selection-start-line="453" selection-start-column="40" selection-end-line="453" selection-end-column="43" />
           <folding>
-            <element signature="e#4309#4310#0" expanded="true" />
-            <element signature="e#4336#4337#0" expanded="true" />
             <element signature="e#7765#7766#0" expanded="true" />
             <element signature="e#7802#7803#0" expanded="true" />
+            <element signature="e#11620#11621#0" expanded="true" />
+            <element signature="e#11678#11679#0" expanded="true" />
+            <element signature="e#11793#11794#0" expanded="true" />
+            <element signature="e#11856#11857#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/com/ws/thread/ThreadLocalTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        <state relative-caret-position="175">
+          <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
           <folding>
-            <element signature="e#416#561#0" expanded="true" />
-            <element signature="e#560#561#0" expanded="true" />
-            <element signature="e#594#595#0" expanded="true" />
-            <element signature="e#643#644#0" expanded="true" />
-            <element signature="e#690#691#0" expanded="true" />
-            <element signature="e#738#739#0" expanded="true" />
+            <element signature="e#541#686#0" expanded="true" />
+            <element signature="e#685#686#0" expanded="true" />
+            <element signature="e#719#720#0" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
+            <element signature="e#815#816#0" expanded="true" />
+            <element signature="e#863#864#0" expanded="true" />
+            <element signature="e#899#900#0" expanded="true" />
+            <element signature="e#943#944#0" expanded="true" />
           </folding>
         </state>
       </provider>

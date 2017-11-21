@@ -8,8 +8,14 @@ public class ThreadLocalTest {
 
         @Override
         public void run() {
-            a.setNumber(a.getNumber()+5);
-            System.out.println(Thread.currentThread().getName()+":\t"+a.getNumber());
+            try {
+                a.setNumber(a.getNumber()+5);
+                System.out.println(Thread.currentThread().getName()+":\t"+a.getNumber());
+            }finally {
+                //防止出现内存泄露
+                a.removeNumber();
+            }
+
         }
     }
 
@@ -25,6 +31,9 @@ public class ThreadLocalTest {
         }
         public void setNumber(Integer number){
             threadLocal.set(number) ;
+        }
+        public void removeNumber(){
+            threadLocal.remove();
         }
     }
 
